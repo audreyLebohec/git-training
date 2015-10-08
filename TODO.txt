@@ -20,3 +20,4 @@ Technologies web :
  - servlet & jsp
  - wicket
  - struts2
+ - jsf
